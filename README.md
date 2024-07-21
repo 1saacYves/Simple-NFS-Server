@@ -12,8 +12,6 @@ Crie 2 máquinas virtuais seguindo meu passo a passo neste repositório: [https:
 ip address
 ```
 
-![nfs1](https://github.com/1saacYves/Simple-NFS-Server/assets/170655155/544c0a51-7465-416a-83b7-3dd03c0806bb)
-
 - Depois teste a rede usando o comando:
 
 ```
@@ -35,11 +33,7 @@ Use o comando, para entrar no modo de edição do vim (Pode ser pedido a sua sen
 sudo vi /etc/sysconfig/network-scripts/ifcfg-NOME_DA_SUA_INTERFACE
 ```
 
-![nfs2](https://github.com/1saacYves/Simple-NFS-Server/assets/170655155/6bae2b77-777a-4943-beb2-e6929bb981fd)
-
 - Quando estiver dentro do arquivo aperte **I** para entrar no modo **INSERT**
-
-![nfs3](https://github.com/1saacYves/Simple-NFS-Server/assets/170655155/ab9d20e6-199a-425e-94f2-eac47bd83d2a)
 
 - Edite o seu arquivo com as novas informações:
 
@@ -70,8 +64,6 @@ ip address
 ```
 
 - Voce pode verificar que o endereço IP foi atualizado em Inet
-
-![nfs4](https://github.com/1saacYves/Simple-NFS-Server/assets/170655155/36b0377b-a768-4e79-90b9-a40b81337986)
 
 ## Servidor NFS
 ### Na VM 1 (Servidor NFS):
