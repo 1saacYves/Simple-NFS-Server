@@ -168,8 +168,6 @@ cat /nfs-mount/shared-text.txt
 
 ## Resultado VM 2:
 
-![nfs5](https://github.com/1saacYves/Simple-NFS-Server/assets/170655155/e5da84f1-6cd0-4bb1-b0ef-df108b521833)
 
 ## Resultado VM 1:
 
-![nfs6](https://github.com/1saacYves/Simple-NFS-Server/assets/170655155/2fbea901-3507-4f3d-ac7f-d235b11d6225)
